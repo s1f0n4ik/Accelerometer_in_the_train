@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="taskmanager.products.models.Product.id" />
+          <option value="taskmanager.orders.models.Status.id" />
+          <option value="taskmanager.orders.models.products" />
+          <option value="taskmanager.orders.views.products" />
+          <option value="taskmanager.products.views.products" />
+          <option value="taskmanager.products.views.Product" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
